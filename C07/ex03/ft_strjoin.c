@@ -78,6 +78,6 @@ char	*ft_strjoin(int size, char **strs, char *sep)
 int main()
 {
 	char sep[]= ",";
-	char *strs[4]= {"yigit","amcam","nerde","burda"};
+	char *strs[4]= {"yigit","sahin","nerde","burda"};
 	printf("%s", ft_strjoin(4,strs,sep));
 }
