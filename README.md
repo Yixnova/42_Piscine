@@ -21,6 +21,8 @@ The 42 Ecole selection process is an innovative approach to education in the fie
 	# Git
 		All projects are submitted via a remote git repository, which demands students to
 		be at ease with such a system.
+  
+![WhatsApp Image 2024-02-25 at 17 48 43](https://github.com/Yixnova/42_Piscine/assets/125765283/f73ed946-7a5f-4c55-9d56-72cefd66d8fa)
 
 ### Soft-skills
 	# Self-learning and proactiveness
@@ -38,3 +40,6 @@ The 42 Ecole selection process is an innovative approach to education in the fie
 		The school is open 24/7. Thus, the so-called "pisciners" are free to work whenever
 		they want, which demands excellent time management skills and resiliency for not
 		"drowning" amid the massive load of work demanded by the non-stop 26-day program.
+  
+  ![WhatsApp Image 2024-02-25 at 17 48 45](https://github.com/Yixnova/42_Piscine/assets/125765283/ef97fd04-0658-489a-9b72-796356ddf47b)
+
